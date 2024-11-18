@@ -28,7 +28,7 @@ Comma-separated values (e.g., 1,2,4) are split into a list.
 Single number is simply converted into a one-item list.
 Assertions ensure only positive, power-of-2 values are accepted.
 
-How are FLOPS calculated:
+## How are FLOPS calculated:
   File "/home/saisamarth/pranav/analytical/PRoof/main.py", line 126, in <module>
     ctx.run()
     
